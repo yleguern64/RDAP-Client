@@ -1,5 +1,5 @@
 {
-    "name": "arrayaccess/rdap-client",
+    "name": "yleguern64/rdap-client",
     "description": "Php - Registration Data Access Protocol (RDAP) Client",
     "license": ["GPL-3.0-or-later"],
     "keywords": [
